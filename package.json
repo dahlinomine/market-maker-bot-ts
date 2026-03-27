@@ -1,0 +1,14 @@
+{
+  "name": "market-maker-bot-ts",
+  "version": "0.1.0",
+  "description": "Liquidity provision bot for decentralized prediction markets",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
